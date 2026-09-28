@@ -1,0 +1,21 @@
+vit-bhopal-mess-app/
+│
+├── .gitignore
+├── LICENSE
+├── README.md
+├── STATEMENT.md
+├── RESULTS.md
+├── requirements.txt
+├── main.py
+│
+├── src/
+│   ├── __init__.py
+│   ├── scraper.py
+│   ├── storage.py
+│   ├── constants.py
+│   └── gui.py
+│
+└── tests/
+    ├── __init__.py
+    ├── test_scraper.py
+    └── test_storage.py
